@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+history.json  # Раскомментируйте эту строку, если не хотите включать свою историю в репозиторий на GitHub.
+              # Для сдачи проекта лучше оставить закомментированной, чтобы продемонстрировать его работу.
